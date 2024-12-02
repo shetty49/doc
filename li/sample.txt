@@ -1,0 +1,2 @@
+This is a SAMPLE Text with Some UpperCASE and LowerCASE letters.
+Let's count the number of words, and also change the case.
